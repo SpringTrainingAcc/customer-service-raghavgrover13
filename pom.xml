@@ -11,7 +11,7 @@
 	<groupId>com.customer</groupId>
 	<artifactId>customer-service-raghav</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer-service_raghav</name>
+	<name>customer-service-raghav</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
